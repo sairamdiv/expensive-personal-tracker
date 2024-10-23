@@ -1,0 +1,8 @@
+{
+    "type": "expense",
+    "category": "Rent",
+    "amount": 1200,
+    "date": "2024-10-05",
+    "description": "Monthly rent"
+  }
+  
